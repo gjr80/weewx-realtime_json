@@ -2,7 +2,7 @@
 
 ## Description ##
 
-The *Realtime JSON* extension creates a user defined JSON data string that can then be saved to file, dispatched to a URL via HTTP POST or dispatched as a message to a MQTT broker.
+The *Realtime JSON* extension is a weeWX service that creates a user defined JSON data string that can then be saved to file, dispatched to a URL via HTTP POST or dispatched as a message to a MQTT broker.
 
 ## Pre-Requisites ##
 
